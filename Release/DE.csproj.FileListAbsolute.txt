@@ -1,0 +1,4 @@
+/home/user/Projects/DE/DE/bin/Release/DE.exe
+/home/user/Projects/DE/DE/obj/x86/Release/DE.csproj.CoreCompileInputs.cache
+/home/user/Projects/DE/DE/obj/x86/Release/DE.exe
+/home/user/Projects/DE/DE/obj/x86/Release/DE.csproj.AssemblyReference.cache

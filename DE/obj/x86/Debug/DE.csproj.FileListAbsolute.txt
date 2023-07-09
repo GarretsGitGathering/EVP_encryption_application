@@ -1,0 +1,6 @@
+/home/user/Projects/DE/DE/bin/Debug/DE.exe
+/home/user/Projects/DE/DE/bin/Debug/DE.pdb
+/home/user/Projects/DE/DE/obj/x86/Debug/DE.csproj.AssemblyReference.cache
+/home/user/Projects/DE/DE/obj/x86/Debug/DE.csproj.CoreCompileInputs.cache
+/home/user/Projects/DE/DE/obj/x86/Debug/DE.exe
+/home/user/Projects/DE/DE/obj/x86/Debug/DE.pdb
